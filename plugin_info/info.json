@@ -5,7 +5,7 @@
 		"fr_FR": "Plugin permettant de remonter les evenements des equipements hikvision dans jeedom via le protocole proprietaire"
 	},
 	"licence" : "AGPL",
-	"author" : "ArnaudF",
+	"author" : "NanoMaverick",
 	"require" : "4.2.0",
 	"category" : "programming",
 	"hasDependency" : false,
