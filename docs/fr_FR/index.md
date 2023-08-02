@@ -1,6 +1,9 @@
 # Plugin Hikvision SDK
 
-Ce "template de plugin" sert de base à la réalisation de plugins pour **Jeedom**.
+Ce plugin permet de récupérer les évènement des équipements Hikvision via le protocole propriétaire (SDK). Il est notamment utile pour certains équipements qui ne supportent pas l'api REST tel que les portiers and anciennes caméra.
+
+
+
 
 La documentation générale relative à la conception de plugin est consultable [ici](https://doc.jeedom.com/fr_FR/dev/).
 

@@ -11,10 +11,10 @@
 	"hasDependency" : false,
 	"hasOwnDeamon" : false,
 	"maxDependancyInstallTime" : 0,
-	"changelog" : "https://jeedom.github.io/plugin-hiksdk/#language#/changelog",
-	"documentation" : "https://jeedom.github.io/plugin-hiksdk/#language#/",
-	"changelog_beta" : "https://jeedom.github.io/plugin-hiksdk/#language#/beta/changelog",
-	"documentation_beta" : "https://jeedom.github.io/plugin-hiksdk/#language#/beta/",
+	"changelog" : "https://nanomaverick.github.io/plugin-hiksdk/#language#/changelog",
+	"documentation" : "https://nanomaverick.github.io/plugin-hiksdk/#language#/",
+	"changelog_beta" : "https://nanomaverick.github.io/plugin-hiksdk/#language#/beta/changelog",
+	"documentation_beta" : "https://nanomaverick.github.io/plugin-hiksdk/#language#/beta/",
 	"link" : {
 		"forum":"Lien vers le forum",
 		"video" : "Lien vers une video"
